@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/mnt/d/周宸源/大学/学习/程序设计助教/出题/GreedySnakeDown/build",
+  "command": "/usr/bin/g++  -I/mnt/d/周宸源/大学/学习/程序设计助教/出题/GreedySnakeDown/include -g -std=gnu++11 -o CMakeFiles/Game.dir/Game.cpp.o -c /mnt/d/周宸源/大学/学习/程序设计助教/出题/GreedySnakeDown/Game.cpp",
+  "file": "/mnt/d/周宸源/大学/学习/程序设计助教/出题/GreedySnakeDown/Game.cpp",
+  "output": "CMakeFiles/Game.dir/Game.cpp.o"
+}
+]

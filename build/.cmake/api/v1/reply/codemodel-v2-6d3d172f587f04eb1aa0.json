@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Game",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Game::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Game-Debug-4f35ccaa4512427cf9b5.json",
+					"name" : "Game",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/mnt/d/\u5468\u5bb8\u6e90/\u5927\u5b66/\u5b66\u4e60/\u7a0b\u5e8f\u8bbe\u8ba1\u52a9\u6559/\u51fa\u9898/GreedySnakeDown/build",
+		"source" : "/mnt/d/\u5468\u5bb8\u6e90/\u5927\u5b66/\u5b66\u4e60/\u7a0b\u5e8f\u8bbe\u8ba1\u52a9\u6559/\u51fa\u9898/GreedySnakeDown"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
